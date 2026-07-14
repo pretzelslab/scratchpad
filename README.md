@@ -1,14 +1,14 @@
 # Scratchpad
 
-This repository is my working sandbox.
+This repository is my personal development sandbox.
 
-I use it to experiment with:
+I use it to practise:
 
-* Git workflows
-* Pull Requests
-* Branching strategies
-* Small code prototypes
-* AI prompts
-* Testing ideas before moving them into production repositories
+* Git and GitHub
+* Branching and pull requests
+* Python
+* TypeScript
+* AI experiments
+* Markdown
 
-Nothing here should be considered production quality.
+Nothing in this repository should be considered production ready.
