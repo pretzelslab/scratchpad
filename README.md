@@ -1,2 +1,14 @@
-# scratchpad
-Personal development sandbox for experiments, prototypes, notes, and Git workflow practice.
+# Scratchpad
+
+This repository is my working sandbox.
+
+I use it to experiment with:
+
+* Git workflows
+* Pull Requests
+* Branching strategies
+* Small code prototypes
+* AI prompts
+* Testing ideas before moving them into production repositories
+
+Nothing here should be considered production quality.
